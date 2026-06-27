@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If you use KRATOS, please cite this project."
+title: "KRATOS - Open Maritime Prognostics Platform"
+authors:
+  - family-names: "Brito"
+    given-names: "Jossian"
+version: "0.3.0"
+date-released: "2026-06-26"

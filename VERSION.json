@@ -1,0 +1,11 @@
+{
+  "project": "KRATOS - Open Maritime Prognostics Platform",
+  "version": "0.3.0",
+  "release_name": "Foundation Release",
+  "author": "Jossian Brito",
+  "date": "2026-06-26",
+  "stage": "Foundation",
+  "status": "Research and Development",
+  "kaggle_dataset": "jossianbrito/tug-failure-prediction",
+  "github_repository": "https://github.com/Jbvix/kratos.git"
+}

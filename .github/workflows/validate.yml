@@ -1,0 +1,21 @@
+name: KRATOS Validation
+
+on:
+  push:
+    branches: [ main, develop ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  basic-validation:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Repository structure check
+        run: |
+          test -f README.md
+          test -f LICENSE
+          test -f VERSION.json
+          test -d docs
+          test -d datasets
+          echo "Basic KRATOS validation passed."
