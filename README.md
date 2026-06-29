@@ -1,7 +1,7 @@
 # KRATOS — Open Maritime Prognostics Platform
 
 [![Project Status](https://img.shields.io/badge/status-research%20%26%20development-blue)]()
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)]()
+[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)]()
 [![Data License: CC0](https://img.shields.io/badge/Data-CC0--1.0-lightgrey)]()
 [![Kaggle Benchmark](https://img.shields.io/badge/Kaggle-Benchmark-20BEFF)]()
 
@@ -81,3 +81,15 @@ KRATOS is intended for research, education, simulation, and benchmarking. It doe
 **Jossian Brito**  
 Chief Engineer • Maritime Professional • Systems Analyst  
 Open Maritime Research Initiative
+
+## License and Copyright
+
+**Copyright (c) 2026 Jossian Brito**
+
+This project is licensed under the **Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)** license.
+
+Commercial use is not permitted without prior written authorization from the author.
+
+Attribution to the original author is required.
+
+See the [LICENSE](LICENSE) file for the full text.
